@@ -6,9 +6,10 @@ Description: Shows twitter, facebook and RSS buttons in the sidebar.
 Version: 1.0
 Author: Daniel Berlanga
 Author URI: http://blog.danielberlanga.es
-License: GPL2
 */
-/*  Copyright 2011  Daniel Berlanga  (email : dani@danielberlanga.es)
+/*  
+	License: GPL2
+	Copyright 2011  Daniel Berlanga  (email : dani@danielberlanga.es)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 

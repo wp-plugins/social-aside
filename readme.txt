@@ -1,10 +1,10 @@
 === Social Aside ===
 Contributors: danikaze
 Donate link: 
-Tags: social, twitter, facebook, rss, email, mail, contact
+Tags: sidebar, social, twitter, facebook, rss, email, mail, contact
 Requires at least: 2.0
 Tested up to: 3.2.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Shows links to your twitter, facebook, rss and email.
 

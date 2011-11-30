@@ -3,7 +3,7 @@
 Plugin Name: Social Aside
 Plugin URI: http://wordpress.org/extend/plugins/social-aside/
 Description: Shows twitter, facebook and RSS buttons in the sidebar.
-Version: 1.0
+Version: 1.1
 Author: Daniel Berlanga
 Author URI: http://blog.danielberlanga.es
 */

@@ -45,23 +45,23 @@ class SocialAside_Widget extends WP_Widget {
 		<?php 
 		if($instance['twitter_on']) { 
 		?>
-			<div class="twitter"><a href="<?php echo $instance['twitter']; ?>" title="Síguenos en Twitter"></a></div>
+			<div class="twitter"><a href="<?php echo $instance['twitter']; ?>"></a></div>
 		<?php
 		}
 		if($instance['facebook_on']) { 
 		?>
-			<div class="facebook"><a href="<?php echo $instance['facebook']; ?>" title="Síguenos en Facebook"></a></div>
+			<div class="facebook"><a href="<?php echo $instance['facebook']; ?>"></a></div>
 		<?php
 		} 
 		if($instance['rss_on']) {
 		?>
-			<div class="rss"><a href="<?php echo $instance['rss']; ?>" title="Mantente al día de las lecciones"></a></div>
+			<div class="rss"><a href="<?php echo $instance['rss']; ?>"></a></div>
 		<?php
 		}
 		if($instance['mail_on']) 
 		{
 		?>
-			<div class="mail"><a href="<?php echo $instance['mail']; ?>" title="Contacta con nosotros"></a></div>
+			<div class="mail"><a href="<?php echo $instance['mail']; ?>"></a></div>
 		<?php
 		}
 		?>

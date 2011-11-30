@@ -75,9 +75,12 @@ In future versions I will add a default-css code option so you don't need to tou
 
 == Screenshots ==
 
-1. Icons of twitter, facebook and rss with custom css
+1. Icons of twitter, facebook, rss and mail with custom css
 
 == Changelog ==
+
+= 1.1 = 
+* Fixed wordpress tagging things (n00b!) :P
 
 = 1.0 = 
 * First version wohooi! (so, everything)

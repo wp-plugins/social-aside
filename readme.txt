@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Social Aside ===
 Contributors: danikaze
 Donate link: 
 Tags: social, twitter, facebook, rss, email, mail, contact

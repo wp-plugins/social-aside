@@ -23,6 +23,56 @@ This plugin provides links/icons for your social-media accounts, like twitter, f
 
 Why not?
 
+= I enabled the plugin, but nothing shows =
+
+The plugin generates the code, but it needs you to customize and add you own icon images.
+This is an example of css with 27x27px icon images:
+`/*
+ * ASIDE-SOCIAL PLUGIN
+ */
+
+.widget_aside_social {
+	display: block;
+	width: 188px;
+	height: 30px;
+	margin: 20px auto 20px auto;
+}
+
+.widget_aside_social div:hover {
+	margin-top: -3px;
+	margin-bottom: 3px;
+}
+
+.widget_aside_social div {
+	float: left;
+	display: block;
+	width: 27px;
+	height: 27px;
+	background: url(img/top-icons.png);
+	margin: 0 10px;
+}
+
+.widget_aside_social div a {
+	display: block;
+	width: 27px;
+	height: 27px;
+}
+
+.widget_aside_social .twitter {
+	background-position: -11px -11px !important;
+}
+.widget_aside_social .facebook {
+	background-position: -60px -11px !important;
+}
+.widget_aside_social .rss {
+	background-position: -109px -11px !important;
+}
+.widget_aside_social .mail {
+	background-position: -158px -11px !important;
+}`
+
+In future versions I will add a default-css code option so you don't need to touch anything.
+
 == Screenshots ==
 
 1. Icons of twitter, facebook and rss with custom css
